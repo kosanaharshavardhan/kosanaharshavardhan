@@ -43,7 +43,8 @@ An AI-driven decentralized framework for resource allocation in Open-RAN network
 ---
 
 ## 📊 GitHub Commit Graph
-[![Harshavardhan's GitHub streak](https://github-readme-activity-graph.cyclic.app/graph?username=kosanaharshavardhan&theme=react-dark&hide_border=true)](https://github.com/kosanaharshavardhan)
+[![Harshavardhan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kosanaharshavardhan&theme=react-dark&hide_border=true)](https://github.com/kosanaharshavardhan)
+
 
 ---
 
