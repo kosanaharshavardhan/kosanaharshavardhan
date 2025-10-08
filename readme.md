@@ -43,9 +43,14 @@ An AI-driven decentralized framework for resource allocation in Open-RAN network
 ---
 
 ## ✍️ Intro (Typing Animation)
+## ✍️ Intro (Typing Animation)
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=000080&width=720&lines=Hi,+I'm+Harshavardhan+Kosana!;Full+Stack+Developer+%7C+AI+Enthusiast+%7C+DSA+Geek;I+build+web+apps+and+AI+projects;Passionate+about+Problem+Solving+%26+Learning" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=FF0000&background=000000&width=720&lines=Hi,+I'm+Harshavardhan+Kosana!" alt="Typing SVG Red"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FF00&background=000000&width=720&lines=Full+Stack+Developer+%7C+AI+Enthusiast+%7C+DSA+Geek" alt="Typing SVG Green"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=0000FF&background=000000&width=720&lines=I+build+web+apps+and+AI+projects" alt="Typing SVG Blue"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=FF00FF&background=000000&width=720&lines=Passionate+about+Problem+Solving+%26+Learning" alt="Typing SVG Magenta"/>
 </p>
+
 
 
 
