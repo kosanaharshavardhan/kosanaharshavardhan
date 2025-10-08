@@ -1,5 +1,8 @@
+## ✨ Intro
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FF0000&background=000000&center=true&vCenter=true&width=720&lines=Hi,+I'm+Harshavardhan+Kosana!;Full+Stack+Developer+%7C+AI+Enthusiast+%7C+DSA+Geek;I+build+web+apps+and+AI+projects;Passionate+about+Problem+Solving+%26+Learning" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FF0000&width=900&lines=Hi,+I'm+Harshavardhan+Kosana!;Full+Stack+Developer+%7C+AI+Enthusiast+%7C+DSA+Geek;I+build+web+apps+and+AI+projects;Passionate+about+Problem+Solving+%26+Learning" alt="Typing SVG"/>
+</p>
+
 </p>
 
 <!-- <p align="center">
@@ -63,7 +66,13 @@ An AI-driven decentralized framework for resource allocation in Open-RAN network
 ---
 
 ## 📫 Contact Me
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/your-linkedin)  
+<p align="center">
+  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn"></a>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-hello%40example.com-red?style=flat&logo=gmail" alt="Email"></a>
+  <a href="https://leetcode.com/yourusername"><img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=flat&logo=leetcode" alt="LeetCode"></a>
+  <a href="https://www.codechef.com/users/yourusername"><img src="https://img.shields.io/badge/CodeChef-Profile-ff69b4?style=flat&logo=codechef" alt="CodeChef"></a>
+</p>
+<!-- - LinkedIn: [Your LinkedIn](https://linkedin.com/in/your-linkedin)  
 - Email: your-email@example.com  
 - LeetCode: [Your LeetCode](https://leetcode.com/yourusername)  
-- CodeChef: [Your CodeChef](https://www.codechef.com/users/yourusername)
+- CodeChef: [Your CodeChef](https://www.codechef.com/users/yourusername) -->
