@@ -44,8 +44,9 @@ An AI-driven decentralized framework for resource allocation in Open-RAN network
 
 ## ✍️ Intro (Typing Animation)
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=000000&background=ffffff00&center=true&vCenter=true&width=720&lines=Hi,+I'm+Harsha!;Full+Stack+Developer+%7C+AI+Enthusiast+%7C+DSA+Geek;I+build+web+apps+and+AI+projects;Passionate+about+Problem+Solving+%F0%9F%92%BB+%26+Learning" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=000000&width=720&lines=Hi,+I'm+Harsha!;Full+Stack+Developer+%7C+AI+Enthusiast+%7C+DSA+Geek;I+build+web+apps+and+AI+projects;Passionate+about+Problem+Solving+%26+Learning" alt="Typing SVG"/>
 </p>
+
 
 
 ---
