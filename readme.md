@@ -61,6 +61,7 @@ An AI-driven decentralized framework for resource allocation in Open-RAN network
 ---
 
 ## 👀 Visitor Count
+<!-- ![Visitor Count](https://komarev.com/ghpvc/?username=kosanaharshavardhan) -->
 ![Visitor Count](https://komarev.com/ghpvc/?username=kosanaharshavardhan)
 
 ---
