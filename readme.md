@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FFD700&width=900&lines=Hi,+I'm+Harshavardhan+Kosana!;Full+Stack+Developer+%7C+AI+Enthusiast+%7C+DSA+Geek;I+build+web+apps+and+AI+projects;Passionate+about+Problem+Solving+%26+Learning" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FFD700&width=900&lines=Hi,+I'm+Harshavardhan+Kosana!;Full+Stack+Developer+%7C+DSA+Geek;I+build+web+apps+and+AI+projects;Passionate+about+Problem+Solving+%26+Learning" alt="Typing SVG"/>
 </p>
 
 <p align="center">
@@ -52,9 +52,3 @@ An AI-driven decentralized framework for resource allocation in Open-RAN network
 ![Visitor Count](https://komarev.com/ghpvc/?username=kosanaharshavardhan)
 
 ---
-
-## 📫 Contact
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/your-linkedin)  
-- Email: your-email@example.com  
-- LeetCode: [Your LeetCode](https://leetcode.com/yourusername)  
-- CodeChef: [Your CodeChef](https://www.codechef.com/users/yourusername)
