@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I am Your Harshavardhan Kosana</h1>
+<h1 align="center">Hi 👋, I am Harshavardhan Kosana</h1>
 
 # 💫 About Me:
 I'm a full stack Web Developer specialized in MERN stack<br>Currently learning AI & Machine Learning<br>Strengthening problem-solving skills through <b>Data Structures & Algorithms
