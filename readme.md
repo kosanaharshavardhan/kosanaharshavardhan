@@ -8,7 +8,7 @@ I'm a full stack Web Developer specialized in MERN stack<br>Currently learning A
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harshavardhankosana) 
 
 ## Coding Profiles:
-<p align="center">
+<p align="left">
   <a href="https://leetcode.com/kosanaharsha">
     <img src="https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode" />
   </a>
