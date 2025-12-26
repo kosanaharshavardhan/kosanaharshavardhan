@@ -1,3 +1,2 @@
-## Hi 👋, I am HarshaVardhan Kosana
-
+<h1 align="center">Hi 👋, I am Your Name</h1>
 
