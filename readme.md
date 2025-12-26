@@ -29,7 +29,6 @@ I'm a full stack Web Developer specialized in MERN stack<br>Currently learning A
 
 ---
 [![](https://visitcount.itsvg.in/api?id=kosanaharshavardhan&icon=0&color=0)](https://visitcount.itsvg.in)
-
 ## Daily Contributions:
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kosanaharshavardhan&theme=tokyo-night)
 
