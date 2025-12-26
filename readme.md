@@ -12,11 +12,6 @@ I'm a full stack Web Developer specialized in MERN stack<br>Currently learning A
 
 
 
-
-![Profile Views](https://komarev.com/ghpvc/?username=kosanaharshavardhan&color=blue)
-
-
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=kosanaharshavardhan&theme=blue_navy&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=kosanaharshavardhan&theme=blue_navy&hide_border=true)<br/>
@@ -25,20 +20,5 @@ I'm a full stack Web Developer specialized in MERN stack<br>Currently learning A
 ---
 [![](https://visitcount.itsvg.in/api?id=kosanaharshavardhan&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<h2 align="center">📊 GitHub Activity</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kosanaharshavardhan&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kosanaharshavardhan&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kosanaharshavardhan&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kosanaharshavardhan&color=blue" />
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=kosanaharshavardhan&color=blue)
