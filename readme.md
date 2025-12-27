@@ -22,7 +22,9 @@ I'm a full stack Web Developer specialized in MERN stack<br>Currently learning A
 
 # 📊 GitHub Stats:
 ![GitHub Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kosanaharshavardhan&theme=tokyonight)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kosanaharshavardhan)](https://github.com/kosanaharshavardhan)
+![](https://github-readme-stats.vercel.app/api?username=kosanaharshavardhan&theme=blue_navy&hide_border=true&include_all_commits=false&count_private=false)
+![](https://nirzak-streak-stats.vercel.app/?user=kosanaharshavardhan&theme=blue_navy&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kosanaharshavardhan&theme=blue_navy&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 
 
