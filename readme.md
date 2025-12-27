@@ -32,4 +32,6 @@ I'm a full stack Web Developer specialized in MERN stack<br>Currently learning A
 ## Daily Contributions:
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kosanaharshavardhan&theme=tokyo-night)
 
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kosanaharshavardhan&theme=tokyo-night)
+
 ![Profile Views](https://komarev.com/ghpvc/?username=kosanaharshavardhan&color=blue)
