@@ -23,9 +23,15 @@ I'm a full stack Web Developer specialized in MERN stack<br>Currently learning A
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=kosanaharshavardhan&theme=blue_navy&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=kosanaharshavardhan&theme=blue_navy&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kosanaharshavardhan&theme=blue_navy&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+## 📊 GitHub Stats
+
+![Harsha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kosanaharshavardhan&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kosanaharshavardhan&layout=compact&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=kosanaharshavardhan&theme=radical)
+
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=kosanaharshavardhan&icon=0&color=0)](https://visitcount.itsvg.in)
